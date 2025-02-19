@@ -1,0 +1,3 @@
+asn1tools==0.166.0
+dataclasses-struct==0.8.1
+colorlog==6.8.2

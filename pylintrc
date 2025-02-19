@@ -1,0 +1,8 @@
+[pycodestyle]
+max-line-length=100
+
+[pylint]
+max-line-length=100
+
+[pylint.messages control]
+disable=W1203,C0114,C0115,C0116
